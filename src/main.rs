@@ -3,6 +3,7 @@ use colored::*;
 
 fn main() {
     loop {
+        println!("{}", "Made By https://github.com/9dl/RSerials".bright_magenta());
         println!("{}", "Windows Type/Version".bright_yellow());
         execute_command("wmic", &["os", "get", "caption,version"]);
 
