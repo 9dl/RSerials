@@ -28,7 +28,7 @@ Prebuild: https://github.com/9dl/RSerials/releases
 - **Graphics Card**: Retrieves details about the graphics card, including its description and PNPDeviceID.
 - **MacAddress**: Fetches MAC addresses of network adapters that are connected and have a PCI connection, along with their names.
 - **Continuously Refreshes**: The program operates in a loop, allowing users to press any key to refresh and check serials again.
-
+- ![Hello](https://github.com/9dl/RSerials/blob/main/Showcase.png?raw=true)
 
 ## Disclaimer
 
